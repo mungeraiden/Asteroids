@@ -1,0 +1,3 @@
+C:\Users\mungeraiden217\source\repos\Asteroids4\x64\Debug\raylib.dll
+C:\Users\mungeraiden217\source\repos\Asteroids4\x64\Debug\glfw3.dll
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4\x64\Debug\Asteroid.4D67A243.Up2Date

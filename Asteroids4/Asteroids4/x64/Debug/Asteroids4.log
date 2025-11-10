@@ -1,0 +1,12 @@
+﻿  Asteroids4.cpp
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4.cpp(75,6): warning C4273: 'CheckCollisionCircleLine': inconsistent dll linkage
+      C:\vcpkg\installed\x64-windows\include\raylib.h(1308,12):
+      see previous definition of 'CheckCollisionCircleLine'
+  
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4.cpp(131,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4.cpp(132,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4.cpp(136,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mungeraiden217\source\repos\Asteroids4\Asteroids4.cpp(254,43): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Asteroids4.vcxproj -> C:\Users\mungeraiden217\source\repos\Asteroids4\x64\Debug\Asteroids4.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
