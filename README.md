@@ -1,2 +1,2 @@
 # Asteroids
-Asteroids written in C++ with Raylib
+Classic Asteroids game written in C++ with Raylib
